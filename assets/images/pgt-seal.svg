@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-labelledby="sealTitle">
+  <title id="sealTitle">Photogirl Travels seal</title>
+  <circle cx="100" cy="100" r="96" fill="none" stroke="#F8F7F4" stroke-width="1.25"/>
+  <circle cx="100" cy="100" r="88" fill="none" stroke="#F8F7F4" stroke-width="0.75"/>
+  <defs>
+    <path id="topArc" d="M38,100 A62,62 0 0,1 162,100"/>
+    <path id="botArc" d="M162,108 A62,62 0 0,1 38,108"/>
+  </defs>
+  <text fill="#F8F7F4" font-family="Inter, Helvetica, Arial, sans-serif" font-size="13" letter-spacing="4">
+    <textPath href="#topArc" startOffset="50%" text-anchor="middle">PHOTOGIRL</textPath>
+  </text>
+  <text fill="#F8F7F4" font-family="Inter, Helvetica, Arial, sans-serif" font-size="13" letter-spacing="4">
+    <textPath href="#botArc" startOffset="50%" text-anchor="middle">TRAVELS</textPath>
+  </text>
+  <text x="100" y="118" text-anchor="middle" fill="#F8F7F4" font-family="Georgia, 'Times New Roman', serif" font-size="54" letter-spacing="-2">PG</text>
+</svg>

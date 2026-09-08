@@ -1,0 +1,8 @@
+{
+  "name": "photogirltravels-wp-preview",
+  "private": true,
+  "description": "WordPress-direction static homepage preview for Photo Girl Travels",
+  "scripts": {
+    "build": "python3 scripts/decode_images.py"
+  }
+}
